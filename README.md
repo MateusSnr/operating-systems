@@ -2,5 +2,5 @@
 
 ### MEMORY_F.C :
     Programa em linguagem C, desenvolvido no ambiente DOSBox que emula o MS-DOS;
-    Objetivo: Comprovar a ocorrência da fragmentação de memória (Memory Fragmentation)
+    Objetivo: Comprovar a ocorrência da fragmentação de memória (Memory Fragmentation).
  
